@@ -32,7 +32,7 @@ Racecar/
 ├── time_estimator.ipynb                 # Tire wear monitoring & pit strategy
 └── README.md                            # Project documentation
 ```
-- Note: The actual dataset is over 1GB, you can install is uisng [this link](https://www.kaggle.com/datasets/samwelnjehia/simple-tire-wear-and-degradation-simulated-dataset).
+- Note: The actual dataset is over 1GB, you can install that using [this link](https://www.kaggle.com/datasets/samwelnjehia/simple-tire-wear-and-degradation-simulated-dataset).
 ---
 
 ## 💾 Workflow Description
