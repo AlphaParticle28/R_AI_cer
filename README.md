@@ -20,7 +20,7 @@ This system revolutionizes F1 race strategy by combining **machine learning** wi
 
 ## 🗂️ Directory Structure
 ```plaintext
-Racecar/
+R-AI-cer/
 │
 ├── Dataset/
 │   ├── RaceCarUsefulDataDriver1.xlsx    # Primary telemetry dataset (12,100+ samples)
@@ -113,7 +113,7 @@ pip install tensorflow tf-keras scikit-learn pandas numpy matplotlib joblib open
 ```bash
 # Clone repository
 git clone https://github.com/AlphaParticle28/R_AI_cer
-cd Racecar
+cd R-AI-cer
 
 # Create virtual environment
 python -m venv venv
